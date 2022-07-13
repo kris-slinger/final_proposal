@@ -1,0 +1,24 @@
+\contentsline {section}{\numberline {1}Introduction}{4}{}%
+\contentsline {subsection}{\numberline {1.1}Background}{4}{}%
+\contentsline {subsection}{\numberline {1.2}Target Group}{5}{}%
+\contentsline {subsection}{\numberline {1.3}Problem statement}{5}{}%
+\contentsline {subsection}{\numberline {1.4}Scope}{6}{}%
+\contentsline {subsection}{\numberline {1.5}General Objectives}{6}{}%
+\contentsline {subsection}{\numberline {1.6}Specific Objectives}{6}{}%
+\contentsline {subsection}{\numberline {1.7}Justification}{8}{}%
+\contentsline {subsection}{\numberline {1.8}Limitations}{8}{}%
+\contentsline {section}{\numberline {2}Literature Review}{9}{}%
+\contentsline {subsection}{\numberline {2.1}Theoretical Review}{9}{}%
+\contentsline {subsubsection}{\numberline {2.1.1}Ecommerse in Agriculture}{9}{}%
+\contentsline {subsection}{\numberline {2.2}Similar projects}{12}{}%
+\contentsline {subsubsection}{\numberline {2.2.1}Jiji}{12}{}%
+\contentsline {subsubsection}{\numberline {2.2.2}Mfarm}{13}{}%
+\contentsline {subsubsection}{\numberline {2.2.3}Twiga foods}{16}{}%
+\contentsline {subsection}{\numberline {2.3}Conceptual Framework}{18}{}%
+\contentsline {section}{\numberline {3}Methodology}{20}{}%
+\contentsline {subsection}{\numberline {3.1}Data Source}{20}{}%
+\contentsline {subsection}{\numberline {3.2}Data Collection}{20}{}%
+\contentsline {subsubsection}{\numberline {3.2.1}Questionnaire}{20}{}%
+\contentsline {subsubsection}{\numberline {3.2.2}Observations of current trends}{20}{}%
+\contentsline {subsubsection}{\numberline {3.2.3}Existing data}{21}{}%
+\contentsline {subsection}{\numberline {3.3}System design}{22}{}%
